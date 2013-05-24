@@ -1,0 +1,5 @@
+# See http://dev.bukkit.org/server-mods/kaboom/pages/configuration
+
+force_mult: 0.5
+y_offset: 1.0
+block_probability: 0.5

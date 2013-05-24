@@ -1,0 +1,10 @@
+name: Kaboom
+main: me.desht.kaboom.KaboomPlugin
+author: desht
+version: ${project.version}
+
+commands:
+  kaboom:
+    description: Kaboom!
+    usage: |
+      /kaboom [<power-level>]
